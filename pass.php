@@ -1,6 +1,6 @@
 <?php
 if ($_POST['pass'])) == 'hello'
-header['location:good.html']
+header['location:home.html']
 else
 echo not found
 ?>
